@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import data from './data'
-import './styles.css'
+import './accordion.css'
 
 function Accordion() {
   const [select, setSelect] = useState(null)
